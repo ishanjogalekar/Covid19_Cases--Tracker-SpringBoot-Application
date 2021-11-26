@@ -40,4 +40,13 @@
 
 ## Application Images
 1. Webapp window: <br/>
-<img alt="demo" src="https://github.com/ishanjogalekar/covid-tracker/blob/main/Images/webapp.JPG" width="700"/>
+<img alt="demo" src="https://github.com/ishanjogalekar/Covid19_Cases--Tracker-SpringBoot-Application/blob/main/Images/webapp.JPG" width="400"/>
+2. Console: <br/>
+<img alt="App" src="https://github.com/ishanjogalekar/Covid19_Cases--Tracker-SpringBoot-Application/blob/main/Images/console.JPG" width="400"/>
+3. Java class UML: <br/>
+<img alt="App" src="https://github.com/ishanjogalekar/Covid19_Cases--Tracker-SpringBoot-Application/blob/main/Images/covid-tracker%20classes.png" width="400"/>
+4. Maven dependencies UML: <br/>
+<img alt="App" src="https://github.com/ishanjogalekar/Covid19_Cases--Tracker-SpringBoot-Application/blob/main/Images/covid-tracker%20Maven%20dependencies.png" width="400"/>
+
+<br/>
+<hr>
