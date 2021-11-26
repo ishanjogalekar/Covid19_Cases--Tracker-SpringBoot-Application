@@ -1,0 +1,19 @@
+.top{
+    background-color: #00eedb;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial;
+    border-radius: 4px;
+    font-size: 30px;
+    margin: 4px 2px;
+    align-items: center;
+    cursor: pointer;
+}
+.top:hover{
+    background: #bf8400;
+    color: rgb(255, 255, 255);
+}
