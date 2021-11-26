@@ -40,4 +40,4 @@
 
 ## Application Images
 1. Webapp window: <br/>
-<img alt="demo" src="" width="700"/>
+<img alt="demo" src="https://github.com/ishanjogalekar/covid-tracker/blob/main/Images/webapp.JPG" width="700"/>
